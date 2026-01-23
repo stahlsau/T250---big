@@ -2,3 +2,9 @@
 
       
   
+
+<img width="1200" height="816" alt="T350" src="https://github.com/user-attachments/assets/55e3f6cc-3727-49c4-9852-d0914520f96d" />
+
+<img width="1200" height="816" alt="T350_" src="https://github.com/user-attachments/assets/db0f7bd4-2497-4a4d-a17a-3b0b09f1a09d" />
+
+<img width="617" height="616" alt="T350__" src="https://github.com/user-attachments/assets/46e62e9a-21f4-488b-ac0b-15f3c5e8ac86" />
