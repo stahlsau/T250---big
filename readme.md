@@ -1,5 +1,6 @@
       mmmh ya..like the T250 but with a bed size of 310x310. Probably a huge bit slower because of that. But a nice and sturdy printer in the line of the old repraps.
-
+      If you build it, keep in mind that this is adjusted and modeled to MY needs and MY printer. I've kept the accuracy and dimensions similarly to Matts T250, but YMMV.
+      There are some adjustments, like the glass bed or the a-bit-special-extruder, which have to be modified if you use other hardware. You have been warned! ;-) 
       
   
 
