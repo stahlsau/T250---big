@@ -9,3 +9,8 @@
 <img width="1200" height="816" alt="T350_" src="https://github.com/user-attachments/assets/db0f7bd4-2497-4a4d-a17a-3b0b09f1a09d" />
 
 <img width="617" height="616" alt="T350__" src="https://github.com/user-attachments/assets/46e62e9a-21f4-488b-ac0b-15f3c5e8ac86" />
+
+Carriage with modified wristwatch-bmg and chc pro:
+
+<img width="414" height="469" alt="Screenshot_2026-03-28_18-05-06" src="https://github.com/user-attachments/assets/1b0f9337-2d6d-457a-9fa7-d96a08c82dc0" />
+
